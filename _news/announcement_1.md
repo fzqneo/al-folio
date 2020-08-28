@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2017-04-01
 inline: true
 ---
 
-A simple inline announcement.
+Awarded the [Croucher Foundation Doctoral Scholarship](https://croucher.org.hk/funding/study_awards/scholarships).

@@ -7,17 +7,20 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+#  address: >
+#    <p>555 your office number</p>
+#    <p>123 your address street</p>
+#    <p>Your City, State 12345</p>
 
 news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a fifth-year PhD student at the Computer Science Department of Carnegie Mellon University. My advisor is Professor [Mahadev Satyanarayanan (Satya)](https://www.cs.cmu.edu/~satya/).
+I am broadly interested in edge computing, distributed systems, databases, video analytics, and systems of/by/for machine learning. I currently focus on video analytics systems on the edge. I work on [Elijah](http://elijah.cs.cmu.edu/) <small>(cloudlet-based edge computing)</small> and [Eureka](https://github.com/fzqneo/eureka-yfcc100m) <small>(interactive image search and visual machine learning)</small>.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before joining CMU, I received my M.Phil and B.S in Computing from the Hong Kong Polytechnic University,where I researched hardware-conscious database operations with Professor [Eric Lo](https://www.cse.cuhk.edu.hk/~ericlo) <small>(now at CUHK)</small>.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am a recipient (among seven) of the [Croucher Foundation Doctoral Scholarship](https://croucher.org.hk/funding/study_awards/scholarships) in 2017.
+
+[CV](http://www.cs.cmu.edu/~ziqiangf/CV.pdf) \| [Thesis Proposal](http://www.cs.cmu.edu/~ziqiangf/proposal.pdf)
